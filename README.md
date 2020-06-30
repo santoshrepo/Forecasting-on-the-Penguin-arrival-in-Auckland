@@ -9,5 +9,5 @@ The purpose of this project to analyse the penguin arrival in Auckland, New Zeal
 Penguins are a group of aquatic flightless marine birds. Their charm and cuteness make them dear to all and hence they attract a lot of visitors. They live almost exclusively in the southern hemisphere. Only one species found north of the equator. This makes Auckland in New Zealand an attractive spot for tourists as it gives the rare opportunity to observe penguins in their natural habitat. Penguins are one of the most tourists attraction in Auckland, New Zealand. Especially Hoiho breed (Yellow-Eyed Penguin) is one of the rare species which found only in New Zealand, are the main attraction for tourist as it gives the rare opportunity to observe penguins in their natural habitat. Hence, to improve the tourism of New Zealand, need analysis on the following topics: What is the best time to visit? Does the breathtaking beauty of penguin parade depend on seasonality? Does the number of penguins vary yearly? Let’s discuss these things based on the number of penguins arrived monthly in Auckland from 2000 to 2006.
 
 # How to run
-Download(Data and R file) all the files in the repo
-Run the R file using Rstudio.
+* Download(Data and R file) all the files in the repo
+* Run the R file using Rstudio.
